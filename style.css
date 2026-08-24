@@ -366,3 +366,4 @@ nav a:hover::after{width:100%;}
 .contact-col a:hover{color:var(--paper);}
 footer{margin-top:90px;padding-top:24px;border-top:1px solid var(--line-dark);display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--muted);flex-wrap:wrap;gap:10px;}
 @media (max-width:720px){.contact-grid{grid-template-columns:1fr;}}
+fix routes
