@@ -267,3 +267,4 @@ document.getElementById('testiNext').addEventListener('click', () => {
 document.getElementById('testiPrev').addEventListener('click', () => {
   testiTrack.scrollBy({ left: -testiTrack.clientWidth * 0.85, behavior: 'smooth' });
 });
+fix routes
